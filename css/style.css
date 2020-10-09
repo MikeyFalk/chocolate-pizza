@@ -1,0 +1,78 @@
+/* *{
+  background-color: red;
+} */
+
+
+
+#container2{
+  position: absolute;
+  z-index: 0%;
+  right: 26.5%;
+  top: 0%;
+}
+
+.container3{
+  justify-content: flex-start;
+  flex-direction: row;
+  align-content: flex-end;
+}
+
+h2{
+  font-weight: 300;
+}
+
+.container4{
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+
+}
+
+body{
+  width: 800px;
+  margin: auto;
+}
+
+#hero{
+  width: 800px;
+}
+
+#print{
+  position: absolute;
+  z-index: 0%;
+  right: 29%;
+  top: 08%;
+}
+
+#print1{
+  position: absolute;
+  z-index: 0%;
+  right: 26.5%;
+  top: 08%;
+}
+
+h1{
+  position: absolute;
+  left: 29%;
+  top: 0%;
+  font-family: 'Dancing Script', cursive;
+  font-size: 2em;
+}
+
+#tagLine{
+  position: absolute;
+  left: 29%;
+  top: 3.4%;
+  font-size: .6em;
+}
+
+header{
+  padding-bottom: 10px;
+  height: 45px;
+  border-bottom: solid 10px lightgray;
+}
+
+h2{
+  font-size: 2em;
+  font-weight: bold;
+}
